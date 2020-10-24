@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:40:05.700Z" agent="5.0 (Windows)" etag="UeE_27JpDF2GHFizNU57" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T12:49:57.785Z" agent="5.0 (Windows)" etag="yNHGPhGE4kyaRXShi5n-" version="13.8.1" type="github">
   <diagram id="mhoMV8M0JnS3q4q47_t6" name="Page-1">
     <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cxbocM3DUpnlg4WnRvVG-2" value="" style="html=1;labelBackgroundColor=none;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="490" height="430" as="geometry" />
+          <mxGeometry x="440" y="40" width="230" height="430" as="geometry" />
         </mxCell>
         <mxCell id="cxbocM3DUpnlg4WnRvVG-9" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-1" target="cxbocM3DUpnlg4WnRvVG-4">
           <mxGeometry relative="1" as="geometry" />
@@ -13,35 +13,29 @@
         <mxCell id="cxbocM3DUpnlg4WnRvVG-10" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-1" target="cxbocM3DUpnlg4WnRvVG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-19" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-1" target="cxbocM3DUpnlg4WnRvVG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-20" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-1" target="cxbocM3DUpnlg4WnRvVG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cxbocM3DUpnlg4WnRvVG-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=none;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="30" height="60" as="geometry" />
+          <mxGeometry x="320" y="285" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cxbocM3DUpnlg4WnRvVG-3" value="Package - CONTENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="220" width="120" height="20" as="geometry" />
+          <mxGeometry x="550" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-4" value="&lt;div&gt;Créé / Supprimer &lt;br&gt;&lt;/div&gt;&lt;div&gt;/ Éditer / Desactiver&lt;br&gt; &lt;/div&gt;&lt;div&gt;une page&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-4" value="Créer une page" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-11" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-5" target="cxbocM3DUpnlg4WnRvVG-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-5" value="Editer une page" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="378" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-12" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-5" target="cxbocM3DUpnlg4WnRvVG-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-17" value="Desactiver une page" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="180" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-13" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;fontColor=none;" edge="1" parent="1" source="cxbocM3DUpnlg4WnRvVG-5" target="cxbocM3DUpnlg4WnRvVG-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-5" value="&lt;div&gt;Modifier le contenu d&#39;une&lt;/div&gt;&lt;div&gt;page&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="440" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-6" value="Ajouter un item" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="340" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-7" value="Supprimer un item" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="440" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cxbocM3DUpnlg4WnRvVG-8" value="Editer un item" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="540" width="140" height="70" as="geometry" />
+        <mxCell id="cxbocM3DUpnlg4WnRvVG-18" value="Supprimer une page" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="80" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
